@@ -1,4 +1,4 @@
-# binarizcao-lenna
+# binarizacao-lenna
 
 # Binarização de Imagem com OpenCV 🖼️
 
